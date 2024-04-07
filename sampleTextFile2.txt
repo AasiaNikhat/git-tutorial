@@ -1,7 +1,6 @@
 This is a sample text file, text is okay
-ls
-cp sampleTextFile1.txt sampleTextFile2.txt
-cp sampleTextFile1.txt sampleTextFile3.txt
 
-ls 
-sampleTextFile1.txt sampleTextFile2.txt sampleTextFile3.txt
+ls sampleTextFile1.txt
+git status
+
+
